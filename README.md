@@ -50,6 +50,9 @@ The game receives parameters to set up the board:
 - The seed for random generation.
 
 ### Example:
+
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/3ebb910a-59e3-4030-83c2-919b02fde5a8" />
+
 ```python
 minas('Z', 5, 6, 32, 2)
 ```
